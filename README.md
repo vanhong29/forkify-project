@@ -4,6 +4,8 @@
 *Forkify is an application that was built with **HTML, CSS, and Javascript**. The application uses data that was fetched from **Forkify API** to display recipes based on keyword the user had entered.*
 
 [View DEMO](https://forkify-vanhong.netlify.app/)
+
+![](image_demo.jpeg)
 ## Features
 
 1. The Forkify Recipe App allow users to **search for recipes**.
@@ -21,7 +23,6 @@ To get started with this project, you could simply fork this repo or download lo
    
    **`npm install`**
 3. Enter your KEY in `config.js`
-
 
    **`const KEY = 'Enter your key you just got here'`**
 ---
